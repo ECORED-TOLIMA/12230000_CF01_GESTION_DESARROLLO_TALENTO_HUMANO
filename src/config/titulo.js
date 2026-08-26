@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'Fundamentos y planificación de la gestión del talento humano'

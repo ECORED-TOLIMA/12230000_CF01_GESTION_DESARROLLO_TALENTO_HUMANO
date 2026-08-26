@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="168" height="168" viewBox="0 0 168 168">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#edea34"/>
+      <stop offset="1" stop-color="#8fed42"/>
+    </linearGradient>
+    <filter id="Elipse_13687" x="0" y="0" width="168" height="168" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.807" stop-color="#fff" stop-opacity="0.808"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_470928" data-name="Rectángulo 470928" width="61.3" height="61.337" fill="#12263f"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1180416" data-name="Grupo 1180416" transform="translate(-992.765 -162)">
+    <g id="Grupo_1180283" data-name="Grupo 1180283" transform="translate(1001.765 168)">
+      <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Elipse_13687)">
+        <circle id="Elipse_13687-2" data-name="Elipse 13687" cx="75" cy="75" r="75" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+      </g>
+      <ellipse id="Elipse_13689" data-name="Elipse 13689" cx="63.5" cy="64" rx="63.5" ry="64" transform="translate(11 10)" fill="url(#radial-gradient)"/>
+    </g>
+    <g id="Grupo_1220901" data-name="Grupo 1220901" transform="translate(1046.115 212.332)">
+      <g id="Grupo_1220900" data-name="Grupo 1220900" clip-path="url(#clip-path)">
+        <path id="Trazado_1277136" data-name="Trazado 1277136" d="M34.891,61.324l-8.338.014a5.965,5.965,0,0,1-.451-11.92l2.783-.094,0-3.318L22.21,46a1.709,1.709,0,0,1-1.784-1.786l-.018-3.319L8.439,40.867a1.606,1.606,0,0,1-1.612-1.756L6.821,28.95l-5.077-.024A1.6,1.6,0,0,1,0,27.312l.029-8.865A1.451,1.451,0,0,1,1.5,17.084l14.065.015c1.446,0,1.435,1.658,1.58,3.4l4.487-.154,7.26-4.23,0-4.152a12.544,12.544,0,0,1-4.447-.395A5.946,5.946,0,0,1,26.554,0L35,.014A5.867,5.867,0,0,1,40.757,4.85a5.924,5.924,0,0,1-3.909,6.715,13.054,13.054,0,0,1-4.443.4v4.123l7.265,4.224c1.331.523,3.087-.045,4.513.14l.139-1.956a1.542,1.542,0,0,1,1.662-1.415l13.557-.014A1.583,1.583,0,0,1,61.3,18.675l-.03,8.851a1.539,1.539,0,0,1-1.7,1.4l-5.088.021-.006,10.16a1.6,1.6,0,0,1-1.612,1.754l-11.976.028-.036,3.55A1.616,1.616,0,0,1,39.086,46l-6.722.061.052,3.267,2.78.091a5.957,5.957,0,0,1-.3,11.907m.015-52.818a2.562,2.562,0,0,0,.034-5.124H26.356A2.569,2.569,0,0,0,23.825,6,2.636,2.636,0,0,0,26.54,8.525Zm.924,13.621-5.174-3.095-5.183,3.1,5.177,3.138ZM13.589,25.54l-.021-5.1H3.332v5.135Zm44.38.01,0-5.115-10.237,0,0,5.127ZM40.957,37.545,51.1,37.53V28.909L45.976,28.9a1.632,1.632,0,0,1-1.694-1.617l-.063-3.492-4.551.021-7.98,4.808a2.044,2.044,0,0,1-2.08,0l-7.982-4.8-4.551-.023-.062,3.494A1.657,1.657,0,0,1,15.322,28.9l-5.127,0,0,8.627H20.391L20.425,36a1.786,1.786,0,0,1,1.585-1.915l17.274,0c1.513,0,1.625,1.643,1.673,3.462m-3.468,5.069.02-5.093H23.786l.042,5.1ZM34.827,57.94a2.567,2.567,0,0,0,2.641-2.431,2.47,2.47,0,0,0-2.2-2.615l-9.473.051c-1.349.007-2.129,1.713-1.953,2.761a2.564,2.564,0,0,0,2.516,2.234Z" transform="translate(0 -0.001)" fill="#12263f"/>
+        <path id="Trazado_1277137" data-name="Trazado 1277137" d="M201.086,40.114a1.7,1.7,0,0,1,2.117.856,1.724,1.724,0,0,1-.868,2.278,1.665,1.665,0,0,1-2.247-.923,1.686,1.686,0,0,1,1-2.211" transform="translate(-148.866 -29.792)" fill="#12263f"/>
+        <path id="Trazado_1277138" data-name="Trazado 1277138" d="M227.86,40.107a1.68,1.68,0,0,1,2.085.942,1.689,1.689,0,1,1-3.11,1.319,1.643,1.643,0,0,1,1.024-2.261" transform="translate(-168.763 -29.799)" fill="#12263f"/>
+        <path id="Trazado_1277139" data-name="Trazado 1277139" d="M174.552,40.076a1.706,1.706,0,0,1,2.055,1.209,1.692,1.692,0,1,1-2.055-1.209" transform="translate(-128.981 -29.791)" fill="#12263f"/>
+      </g>
+    </g>
+  </g>
+</svg>
