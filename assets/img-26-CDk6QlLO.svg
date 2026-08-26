@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="146" height="146" viewBox="0 0 146 146">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#edea34"/>
+      <stop offset="1" stop-color="#8fed42"/>
+    </linearGradient>
+    <filter id="Elipse_13687" x="0" y="0" width="146" height="146" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.807" stop-color="#fff" stop-opacity="0.808"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_470953" data-name="Rectángulo 470953" width="59.959" height="58.176" fill="#12263f"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1180517" data-name="Grupo 1180517" transform="translate(-992.765 -162)">
+    <g id="Grupo_1180283" data-name="Grupo 1180283" transform="translate(1001.765 168)">
+      <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Elipse_13687)">
+        <circle id="Elipse_13687-2" data-name="Elipse 13687" cx="64" cy="64" r="64" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+      </g>
+      <ellipse id="Elipse_13689" data-name="Elipse 13689" cx="52.5" cy="53" rx="52.5" ry="53" transform="translate(11 10)" fill="url(#radial-gradient)"/>
+    </g>
+    <g id="Grupo_1220953" data-name="Grupo 1220953" transform="translate(1036.06 202.912)">
+      <path id="Trazado_1277354" data-name="Trazado 1277354" d="M89.333,70.841,105.44,99.452l3.59-3.126-12.7-21.448,20.838-.116-.1-3.936Z" transform="translate(-57.213 -45.36)" fill="#12263f"/>
+      <path id="Trazado_1277355" data-name="Trazado 1277355" d="M0,74.756l20.912.119L8.076,96.308l3.637,3.107,16.072-28.57L.124,70.822Z" transform="translate(0 -45.357)" fill="#12263f"/>
+      <path id="Trazado_1277356" data-name="Trazado 1277356" d="M40.9,110.231l3.729,1.867L56.378,92.149,67.4,111.871l4.177-1.889L56.02,84.195Z" transform="translate(-26.194 -53.922)" fill="#12263f"/>
+      <g id="Grupo_1220952" data-name="Grupo 1220952">
+        <g id="Grupo_1220951" data-name="Grupo 1220951" clip-path="url(#clip-path)">
+          <path id="Trazado_1277357" data-name="Trazado 1277357" d="M70.783.038a6.579,6.579,0,0,1,7.3,5.9A6.663,6.663,0,0,1,64.866,7.63,6.583,6.583,0,0,1,70.783.038" transform="translate(-41.498 0)" fill="#12263f"/>
+          <path id="Trazado_1277358" data-name="Trazado 1277358" d="M95.172,49.824h-4.4c-1.609-1.589-3.037-3.079-4.7-4.536a40.317,40.317,0,0,1,.039,4.575,18.976,18.976,0,0,1-4.384-.124l.108-8.527c1.432-.064,3.4-.668,4.33.156l4.768,4.2a15.611,15.611,0,0,1-.076-4.386l4.261-.01Z" transform="translate(-52.344 -26.218)" fill="#12263f"/>
+          <path id="Trazado_1277359" data-name="Trazado 1277359" d="M53.822,46.632l-5.337.144a4,4,0,0,0,.008,1.28l6.848.006a4.023,4.023,0,0,1-.008,2.158l-11.445-.007.022-8.772,11.137,0a3.463,3.463,0,0,1,.027,1.978l-6.581.042a3.379,3.379,0,0,0,0,1.2l5.471.105c.275.4.285,1.69-.14,1.859" transform="translate(-28.108 -26.541)" fill="#12263f"/>
+          <path id="Trazado_1277360" data-name="Trazado 1277360" d="M15.6,46.269c.744,3.281-5.643,4.5-10.342,2.889a2.929,2.929,0,0,1-2.179-2.194c4.314-.892,6.536,2.116,8.436.046L5.26,45.547a2.316,2.316,0,0,1-1.885-1.833c-.352-2.94,5.584-3.923,9.733-2.538a2.758,2.758,0,0,1,2.063,2.1c-3.989,1-6.217-1.721-7.658,0l6.316,1.5A2.265,2.265,0,0,1,15.6,46.269" transform="translate(-1.969 -25.975)" fill="#12263f"/>
+          <path id="Trazado_1277361" data-name="Trazado 1277361" d="M132.475,49.068l-4.25-.074a4.935,4.935,0,0,1-.746,1.122l-4.4.02,4.9-8.638,4.725-.063,4.973,8.725-4.343.025c-.372,0-.631-.869-.859-1.118m-.714-1.839L130.3,44.25l-1.215,2.957a15.025,15.025,0,0,1,2.678.021" transform="translate(-78.823 -26.537)" fill="#12263f"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
