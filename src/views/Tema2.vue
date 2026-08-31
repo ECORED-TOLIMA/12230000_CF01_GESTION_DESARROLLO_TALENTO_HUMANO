@@ -17,7 +17,7 @@
       Separador
 
       #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 2.1. Proceso de capacitación: etapas, técnicas y nuevas tendencias
+        h2 2.1 Proceso de capacitación: etapas, técnicas y nuevas tendencias
 
       .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")(style="background-color: #F3F298 !important")
         .bloque-texto-g__img.img-bg-02
@@ -101,7 +101,7 @@
       Separador
 
       #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 2.2. Comunicación en los procesos de capacitación: definición y clases
+        h2 2.2 Comunicación en los procesos de capacitación: definición y clases
 
       p.mb-4 La comunicación es el tejido conectivo de todo proceso de capacitación. Sin una comunicación efectiva, el conocimiento más valioso puede perderse en la transmisión, generar malentendidos o simplemente no llegar a quienes más lo necesitan. El área de gestión del talento humano debe gestionar la comunicación en tres dimensiones clave en la capacitación:
 
@@ -170,7 +170,7 @@
       Separador
 
       #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 2.3. Gamificación: concepto y estrategias
+        h2 2.3 Gamificación: concepto y estrategias
 
       .row.justify-content-center.mb-4
         .col.col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
@@ -263,7 +263,7 @@
       Separador
 
       #t_2_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 2.4. Didáctica: concepto y tipos
+        h2 2.4 Didáctica: concepto y tipos
 
       p.mb-4 La didáctica es la ciencia que estudia los procesos de enseñanza-aprendizaje y desarrolla los métodos, estrategias y técnicas que permiten que el conocimiento sea transmitido y apropiado de manera efectiva. Para el área de gestión del talento humano, la didáctica aporta los fundamentos teórico-prácticos que orientan el diseño de las actividades formativas y la selección de los recursos pedagógicos más pertinentes.
 
@@ -330,7 +330,7 @@
       Separador
 
       #t_2_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 2.5. Metodología del plan de capacitación
+        h2 2.5 Metodología del plan de capacitación
 
       p.mb-4 La metodología es el conjunto de principios, enfoques, etapas y herramientas que orientan el diseño e implementación del plan de capacitación. Una metodología bien definida garantiza coherencia entre el diagnóstico de necesidades, los objetivos de aprendizaje, las estrategias formativas y los mecanismos de evaluación.
 
@@ -375,7 +375,7 @@
       Separador
 
       #t_2_6.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 2.6. Presupuesto para el plan de capacitación
+        h2 2.6 Presupuesto para el plan de capacitación
 
       p.mb-4 El presupuesto es la herramienta financiera que traduce el plan de capacitación en términos monetarios, permitiendo planificar, controlar y evaluar el uso de los recursos destinados a la formación. Un presupuesto bien elaborado no solo facilita la ejecución del plan, sino que también le da legitimidad ante la dirección de la organización al demostrar que la inversión en formación es racional, transparente y coherente con las necesidades identificadas.
 
@@ -481,7 +481,7 @@
       Separador
 
       #t_2_7.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 2.7. Cronograma del plan de capacitación: definición, tipos y elaboración
+        h2 2.7 Cronograma del plan de capacitación: definición, tipos y elaboración
 
       p.mb-4 El cronograma es la herramienta de planeación temporal que organiza las actividades del plan de capacitación en el tiempo, asignando fechas, responsables y recursos para cada acción formativa. Sin un cronograma bien estructurado, el plan de capacitación corre el riesgo de quedarse en el papel o de ejecutarse de manera desorganizada, generando conflictos con la operación normal de la empresa.
 
@@ -537,7 +537,7 @@
       Separador
 
       #t_2_8.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 2.8. Recursos empresariales para la capacitación
+        h2 2.8 Recursos empresariales para la capacitación
 
       p.mb-4 La ejecución exitosa de un plan de capacitación requiere de una gestión eficiente de los recursos disponibles en la organización. Estos recursos pueden clasificarse en cuatro grandes categorías:
 
@@ -582,7 +582,7 @@
       Separador
 
       #t_2_9.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 2.9. El plan de capacitación: definición, tipos, herramientas y estructuración
+        h2 2.9 El plan de capacitación: definición, tipos, herramientas y estructuración
 
       p.mb-4 El plan de capacitación es el documento maestro que integra todos los elementos del proceso de formación: el diagnóstico de necesidades, los objetivos de aprendizaje, las actividades formativas, los recursos necesarios, el cronograma y los mecanismos de evaluación. Es el instrumento que operacionaliza la política de desarrollo humano de la organización y sirve de hoja de ruta para todos los actores involucrados en la formación.
 
@@ -711,10 +711,10 @@
                   td(style="background-color: #FBF7F1;") 10
                   td(style="background-color: #FBF7F1;") GTH / TI
 
-      .row.justify-content-center.mb-4
+      .row.justify-content-center
         .col-lg-8.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
           .row.mb-0
-            .col-lg-auto.d-none.d-lg-block
+            .col-lg-auto.d-none.d-lg-block.svg-podcast-console
               figure
                 img(src='@/assets/curso/temas/t2/img-38.svg', alt='')
             .col-lg-10.col-12
@@ -731,7 +731,7 @@
                     TarjetaAudio.audio-custom.color-secundario.bg-color-white.mb-3(
                       texto="Del diagnóstico a la acción: una capacitación que transforma el desempeño"
                       tiempo
-                      :audio="require_src('@/assets/componentes/audios/podcast-sentido-pertenencia.mp3')"
+                      :audio="require_src('@/assets/componentes/audios/podcast_diagnostico_accion.mp3')"
                       @audio-hover="mostrarIndicadorTarjetaAudio = false"
                     )
                       .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
@@ -739,33 +739,57 @@
           figure
             img(src='@/assets/curso/temas/t2/img-37.png', alt='')
 
-
-
-
-
-
-
-
-
-
-
-
-
 </template>
 
 <script>
 export default {
   name: 'Tema2',
+
   data: () => ({
     mostrarIndicadorTarjetaAudio: true,
+    intervaloAudioNaranja: null,
   }),
+
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()
+      this.actualizarBarraAudioNaranja()
+
+      this.intervaloAudioNaranja = setInterval(() => {
+        this.actualizarBarraAudioNaranja()
+      }, 200)
     })
   },
+
   updated() {
     this.$aosRefresh()
+    this.actualizarBarraAudioNaranja()
+  },
+
+  beforeUnmount() {
+    clearInterval(this.intervaloAudioNaranja)
+  },
+
+  methods: {
+    actualizarBarraAudioNaranja() {
+      this.$nextTick(() => {
+        const rangos = document.querySelectorAll(
+          '.audio-custom input[type="range"]',
+        )
+
+        rangos.forEach((range) => {
+          const min = Number(range.min || 0)
+          const max = Number(range.max || 100)
+          const value = Number(range.value || 0)
+
+          if (max === min) return
+
+          const porcentaje = ((value - min) / (max - min)) * 100
+
+          range.style.setProperty('--progreso-audio', `${porcentaje}%`)
+        })
+      })
+    },
   },
 }
 </script>

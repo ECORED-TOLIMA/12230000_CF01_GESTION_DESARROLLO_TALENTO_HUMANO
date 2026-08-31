@@ -17,7 +17,7 @@
       Separador
 
       #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 1.1. Capacitación: concepto, acciones y tipos
+        h2 1.1 Capacitación: concepto, acciones y tipos
       
       .row.justify-content-center.align-items-stretch.mb-4.g-0.recurso-c10-ajuste
         .col-lg-7.col-12.order-lg-2.order-2
@@ -146,7 +146,7 @@
       Separador
 
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 1.2. Diagnóstico de Necesidades de Capacitación (DNC): concepto y técnicas
+        h2 1.2 Diagnóstico de Necesidades de Capacitación (DNC): concepto y técnicas
 
       p.mb-4 El Diagnóstico de Necesidades de Capacitación es el proceso sistemático mediante el cual se identifican las brechas existentes entre las competencias que los colaboradores poseen actualmente y las que requieren para desempeñar sus funciones con el nivel de eficacia esperado por la organización.
 
@@ -271,7 +271,7 @@
       Separador
 
       #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 1.3. Competencias: definición y clases
+        h2 1.3 Competencias: definición y clases
 
       .row.justify-content-center.mb-4
         .col.col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
@@ -417,7 +417,7 @@
             img(src='@/assets/curso/temas/t1/icono.svg', style="width: 45px" ,alt='').m-auto
         .col-lg-auto.col-9.titulo01(style="z-index:1")
           .p-1
-            h3.mb-0.ms-3 Elementos o iceberg de la competencia
+            h3.mb-0.ms-3 Elementos o #[em iceberg] de la competencia
 
       p.mb-4 Mientras que los conocimientos y habilidades son necesarios para ser contratado, los elementos invisibles como la actitud y la motivación son los que determinan si una persona tendrá un desempeño excelente en su puesto. Estos elementos son:
 
@@ -607,7 +607,7 @@
       Separador
 
       #t_1_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 1.4. Aprendizaje: concepto, ritmos y estilos
+        h2 1.4 Aprendizaje: concepto, ritmos y estilos
 
       p.mb-4 El aprendizaje es el proceso mediante el cual las personas adquieren, transforman y aplican conocimientos, habilidades y actitudes como resultado de su interacción con el entorno. En la gestión del talento humano, comprender cómo aprenden los adultos es fundamental para diseñar programas de capacitación efectivos que favorezcan el desarrollo de competencias y generen mejoras sostenibles en el desempeño laboral.
 
@@ -691,7 +691,7 @@
       Separador
 
       #t_1_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 1.5. Normativa legal ambiental, de salud y seguridad en el trabajo
+        h2 1.5 Normativa legal ambiental, de salud y seguridad en el trabajo
 
       .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")(style="background-color: #F3F298 !important")
         .bloque-texto-g__img.img-bg-35
@@ -737,7 +737,7 @@
 
       p.mb-4 La inclusión de la SST en el plan de capacitación no es opcional. El Decreto 1072 de 2015 es el Decreto Único Reglamentario del Sector Trabajo en Colombia que establece en su artículo 2.2.4.6.11 que el empleador debe definir los requisitos de conocimiento y habilidad en seguridad y salud en el trabajo necesarios para sus trabajadores y asegurarse de que estos sean competentes sobre la base de la educación, la formación o la experiencia. 
 
-      .row.justify-content-center.mb-4
+      .row.justify-content-center
         .col.col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
           figure
             img(src='@/assets/curso/temas/t1/img-36.png', alt='')

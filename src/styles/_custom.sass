@@ -743,7 +743,7 @@ figcaption
   border-radius: 30px !important
 
   .tarjeta-audio__btn
-    background-color: #3342A4 !important
+    background-color: #5F5E14 !important
 
     i
       color: #FFFFFF !important
@@ -751,38 +751,58 @@ figcaption
   .tarjeta-audio__boton:hover,
   .audio__btn:hover,
   button:hover
-    background-color: #3342A4 !important
-    border-color: #3342A4 !important
+    background-color: #5F5E14 !important
+    border-color:#5F5E14 !important
 
     i
       color: #FFFFFF !important
 
   input[type="range"]
-    accent-color: #3342A4
-    background: #D8E3EE !important
+    --progreso-audio: 0%
+    -webkit-appearance: none
+    appearance: none
+    width: 100%
+    height: 6px
+    border-radius: 10px
+    background: linear-gradient(to right, #EDA632 0%, #EDA632 var(--progreso-audio), #8FED42 var(--progreso-audio), #8FED42 100%) !important
+    outline: none
 
   input[type="range"]::-webkit-slider-runnable-track
-    background-color: #8FED42 !important
     height: 6px
     border-radius: 10px
+    background: transparent !important
 
   input[type="range"]::-webkit-slider-thumb
+    -webkit-appearance: none
+    appearance: none
+    width: 12px
+    height: 12px
+    border-radius: 50%
     background-color: #EDA632 !important
     border: none !important
+    margin-top: -3px
 
   input[type="range"]::-moz-range-track
-    background-color: #D8E3EE !important
     height: 6px
     border-radius: 10px
+    background-color: #8FED42 !important
+
+  input[type="range"]::-moz-range-progress
+    height: 6px
+    border-radius: 10px
+    background-color: #EDA632 !important
 
   input[type="range"]::-moz-range-thumb
-    background-color: #3342A4 !important
-    border: none !important 
+    width: 12px
+    height: 12px
+    border-radius: 50%
+    background-color: #EDA632 !important
+    border: none !important
 
 .titulo-podcast-audio
   color: #FFFFFF
   font-weight: 700
-  font-size: 1rem
+  font-size: 1.2rem
   line-height: 1.2
   margin-bottom: .8rem !important
 
@@ -804,7 +824,11 @@ figcaption
   background-color: #E9FCD9 !important
 
 .audio.color-secundario .audio__btn, .tarjeta-audio.color-secundario .audio__btn, .tarjeta-dialogo.color-secundario .audio__btn
-  background-color: #3342A4
+  background-color: #5F5E14
+
+@media (min-width: 992px) and (max-width: 1400px)
+  .svg-podcast-console
+    display: none !important
 
 .recurso-capacitacion
   align-items: stretch

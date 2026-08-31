@@ -148,7 +148,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/12230000_CF01_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -189,7 +189,7 @@ export default {
         'proceso sistemático para identificar las brechas entre las competencias actuales de los colaboradores y las requeridas por los cargos, con el fin de orientar la planeación formativa.',
     },
     {
-      termino: 'E-learning',
+      termino: '<em>E-learning</em>',
       significado:
         'modalidad de formación que utiliza medios digitales y plataformas tecnológicas para facilitar el aprendizaje a distancia o de manera autónoma.',
     },
@@ -204,12 +204,12 @@ export default {
         'documento que consolida y prioriza las brechas de competencia identificadas en el DNC, respondiendo a las preguntas: ¿qué, quién, cuándo y cómo capacitar?',
     },
     {
-      termino: 'Kirkpatrick (modelo)',
+      termino: '<em>Kirkpatrick</em> (modelo)',
       significado:
         'modelo de evaluación de la capacitación en cuatro niveles: reacción, aprendizaje, comportamiento y resultados, desarrollado por Donald Kirkpatrick en 1994.',
     },
     {
-      termino: 'Microlearning',
+      termino: '<em>Microlearning</em>',
       significado:
         'estrategia formativa basada en contenidos breves y focalizados (3-7 minutos) diseñados para ser consumidos en momentos cortos de la jornada laboral.',
     },
@@ -219,7 +219,7 @@ export default {
         'documento que integra el diagnóstico de necesidades, los objetivos, las actividades formativas, el cronograma, el presupuesto y los indicadores de seguimiento del proceso de formación.',
     },
     {
-      termino: 'Reskilling',
+      termino: '<em>Reskilling</em>',
       significado:
         'proceso de adquisición de nuevas competencias que permiten al colaborador asumir funciones diferentes a las actuales, en respuesta a cambios en el mercado o la tecnología.',
     },
@@ -229,7 +229,7 @@ export default {
         'Sistema de Gestión de Seguridad y Salud en el Trabajo. Marco normativo y operativo que obliga a las organizaciones colombianas a gestionar los riesgos laborales y garantizar condiciones seguras de trabajo.',
     },
     {
-      termino: 'Upskilling',
+      termino: '<em>Upskilling</em>',
       significado:
         'proceso de actualización y fortalecimiento de las competencias actuales del colaborador para responder a nuevas exigencias de su cargo o del mercado.',
     },
