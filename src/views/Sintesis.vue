@@ -10,13 +10,13 @@
           .recurso-capacitacion__imagen
             img(
               src='@/assets/curso/img-01.png'
-              alt='Identificación de necesidades'
+              alt=''
             )
 
           .recurso-capacitacion__icono
             img(
               src='@/assets/curso/img-01v.svg'
-              alt='Icono identificación de necesidades'
+              alt=''
             )
 
           .recurso-capacitacion__contenido
@@ -29,13 +29,13 @@
           .recurso-capacitacion__imagen
             img(
               src='@/assets/curso/img-02.png'
-              alt='Programación de actividades'
+              alt=''
             )
 
           .recurso-capacitacion__icono
             img(
               src='@/assets/curso/img-02v.svg'
-              alt='Icono programación de actividades'
+              alt=''
             )
 
           .recurso-capacitacion__contenido

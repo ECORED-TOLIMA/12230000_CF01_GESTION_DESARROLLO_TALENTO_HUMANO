@@ -309,7 +309,7 @@
                 span #[b Competencias digitales:] habilidades para usar herramientas tecnológicas, gestionar información digital y colaborar en entornos virtuales. Son transversales a todos los cargos en la economía actual.
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/t1/img-11.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/t1/img-11.png', alt='')
 
         .row(titulo="Por su alcance")
           .col-md-6.mb-4.mb-md-0
@@ -326,7 +326,7 @@
                 span #[b Competencias directivas o de liderazgo:] propias de quienes tienen responsabilidad de dirección. Ejemplo: visión estratégica, toma de decisiones, gestión del cambio, desarrollo de equipos.
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/t1/img-12.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/t1/img-12.png', alt='')
 
         .row(titulo="Por su grado o nivel de desarrollo")
           .col-md-6.mb-4.mb-md-0
@@ -349,7 +349,7 @@
                 span #[b Nivel 4:] dominio excepcional: evidencia un desempeño sobresaliente, innova, propone mejoras y contribuye al desarrollo de la competencia en otras personas y en la organización.
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/t1/img-13.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/t1/img-13.png', alt='')
 
       .row.align-items-center.mb-4(data-aos="zoom-in")
         .col-auto.pe-0(style="z-index:2")
@@ -485,28 +485,28 @@
             p Cuando una persona desempeña funciones acordes con su perfil, aumenta su eficiencia y autonomía, generando un mejor aprovechamiento de los recursos disponibles. Además, se facilita la toma de decisiones y la ejecución de tareas con mayor precisión, impactando positivamente en los indicadores de desempeño de la organización.
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/t1/img-27.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/t1/img-27.png', alt='')
 
         .row(titulo="Reducción de rotación")
           .col-md-6.mb-4.mb-md-0
             p Una adecuada gestión por competencias fortalece el compromiso de los empleados, ya que estos perciben oportunidades claras de desarrollo y crecimiento dentro de la empresa. Al sentirse valorados y ubicados en roles donde pueden aportar y desarrollarse, disminuye la intención de abandonar la organización. Asimismo, los procesos de selección más acertados reducen la probabilidad de contratar personal que no se adapte al cargo o a la cultura organizacional. Esto se traduce en menores costos asociados a la rotación, como reclutamiento, inducción y capacitación, y en una mayor estabilidad del talento humano.
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/t1/img-28.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/t1/img-28.png', alt='')
 
         .row(titulo="Mejor clima organizacional")
           .col-md-6.mb-4.mb-md-0
             p El enfoque por competencias favorece un entorno laboral más transparente y organizado, al definir claramente las expectativas, responsabilidades y comportamientos esperados de cada colaborador. Esto reduce ambigüedades y conflictos internos, ya que cada persona comprende su rol y el de los demás dentro de la organización. Además, herramientas como la evaluación de desempeño y la retroalimentación continua promueven una comunicación más abierta y constructiva, como resultado, se fortalece la confianza, el trabajo en equipo y la satisfacción laboral, elementos clave para un clima organizacional positivo.
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/t1/img-29.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/t1/img-29.png', alt='')
 
         .row(titulo="Agilidad organizacional")
           .col-md-6.mb-4.mb-md-0
             p Las organizaciones que gestionan su talento humano por competencias desarrollan una mayor capacidad de adaptación frente a cambios del entorno, crisis o nuevas demandas del mercado. Esto se debe a que cuentan con colaboradores versátiles, con habilidades transferibles y disposición para asumir diferentes roles o aprender nuevas funciones. La formación continua y el desarrollo de competencias blandas, como la resiliencia y la innovación, permiten responder de manera más rápida y efectiva a situaciones imprevistas. En consecuencia, la organización mejora su competitividad y sostenibilidad en entornos dinámicos.
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/t1/img-30.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/t1/img-30.png', alt='')
 
       p Asimimo, es importante mencionar que desde IAP GROUP se construyó un diccionario por competencias que organiza las competencias en dos grandes categorías organizacionales y técnicas, y las evalúa mediante niveles de desarrollo que van desde un dominio mínimo hasta uno altamente estratégico. Esta estructura permite identificar brechas, orientar procesos como selección, capacitación y evaluación, y alinear el desempeño del talento humano con los objetivos organizacionales. 
       p.mb-4 A continuación, se establece su estructura basada en categorías y niveles de desarrollo, lo que facilita su comprensión y aplicación en la gestión del talento humano:
