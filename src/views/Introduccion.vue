@@ -29,6 +29,8 @@
         .cajon.cajon.C01.color-secundario.px-4.py-3
           p.mb-0 El recorrido formativo integra teoría y práctica, conceptos y aplicaciones, herramientas clásicas y tendencias emergentes como la gamificación y el aprendizaje digital. Al finalizar, el aprendiz estará en capacidad de realizar diagnósticos de necesidades de capacitación, diseñar planes de formación con presupuesto, cronograma y metodologías activas, así como reflexionar críticamente sobre el impacto que el desarrollo humano tiene en la competitividad organizacional.
     
+    p.mb-4 Por lo anterior, para comprender la importancia del contenido y los temas abordados, se recomienda acceder al siguiente video:
+    
     .row.justify-content-center.align-items-center           
       .col-lg-12
         figure

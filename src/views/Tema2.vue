@@ -72,7 +72,7 @@
               .col-lg-6.col-sm-4.col-6
                 img(src='@/assets/curso/temas/t2/img-05.svg' alt='')
             h4.text-center #[em Mobile learning (m-learning)]
-            p.text-center Formación diseñada para dispositivos móviles, que permite al colaborador aprender en cualquier momento y lugar a través de su #[em smartphone] o #[em tablet].
+            p.text-center Formación diseñada para dispositivos móviles, que permite al colaborador aprender en cualquier momento y lugar a través de su smartphone o tablet.
           .tarjeta.tarjeta--C02.p-4
             .row.justify-content-center.mb-3
               .col-lg-6.col-sm-4.col-6
@@ -288,7 +288,7 @@
             .row.justify-content-center.mb-3
               .col-lg-6.col-sm-4.col-6
                 img(src='@/assets/curso/temas/t2/img-17.svg' alt='')
-            h4.text-center Exposición magistra
+            h4.text-center Exposición magistral
             p.text-center Presentación estructurada del facilitador sobre un tema específico. Es eficiente para transmitir conceptos de manera rápida, pero debe complementarse con actividades participativas para garantizar el aprendizaje.
           .tarjeta.tarjeta--C02.p-4
             .row.justify-content-center.mb-3
@@ -422,7 +422,7 @@
                   td(style="background-color: #FBF7F1;") #[b Plataformas tecnológicas]
                   td(style="background-color: #FBF7F1;") Gasto directo.
                   td(style="background-color: #FBF7F1;") Licencias de LMS, herramientas de videoconferencia, #[em software] de gamificación.
-                  td(style="background-color: #FBF7F1;") Suscripción mensual a plataforma de e-learning.
+                  td(style="background-color: #FBF7F1;") Suscripción mensual a plataforma de #[em e-learning].
                 tr(data-aos="fade-right")
                   td #[b Viáticos y transporte.]
                   td Gasto indirecto.
@@ -564,7 +564,7 @@
               .h2 3
             p.text-center 
               b Recursos tecnológicos
-            p.text-center Plataformas LMS, herramientas de videoconferencia (Zoom, Teams, Meet), software de diseño instruccional (Articulate, Canva, Genially) y repositorios digitales.
+            p.text-center Plataformas LMS, herramientas de videoconferencia (Zoom, Teams, Meet), #[em software] de diseño instruccional (Articulate, Canva, Genially) y repositorios digitales.
 
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-acento-botones.especial.p-5.h-100

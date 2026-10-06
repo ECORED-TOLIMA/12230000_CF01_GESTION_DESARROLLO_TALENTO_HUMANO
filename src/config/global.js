@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Fundamentos y planificación de la gestión del talento humano',
     Description:
-      'Este componente aborda los fundamentos conceptuales y metodológicos de la gestión del desarrollo humano en las organizaciones. Desarrolla los procesos de Diagnóstico de Necesidades de Capacitación DNC), clasificación de competencias, estilos de aprendizaje y normativa de SST, avanzando hacia el diseño de planes de capacitación con metodologías activas, gamificación, presupuesto y cronograma.',
+      'Este componente aborda los fundamentos conceptuales y metodológicos de la gestión del desarrollo humano en las organizaciones. Desarrolla los procesos de Diagnóstico de Necesidades de Capacitación (DNC), clasificación de competencias, estilos de aprendizaje y normativa de SST, avanzando hacia el diseño de planes de capacitación con metodologías activas, gamificación, presupuesto y cronograma.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [

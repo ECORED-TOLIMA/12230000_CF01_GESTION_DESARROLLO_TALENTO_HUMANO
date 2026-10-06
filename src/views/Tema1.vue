@@ -281,7 +281,7 @@
           .row.mb-0
             p.mb-4 El concepto de competencia ocupa un lugar central en la gestión moderna del talento humano. Una competencia es la capacidad integrada de movilizar conocimientos, habilidades, actitudes y valores para desempeñar una función o resolver un problema con eficacia en un contexto determinado. La competencia no es sinónimo de conocimiento; implica saber hacer, saber ser y saber convivir en situaciones reales y cambiantes.
             .cajon.cajon.C02.color-primario.px-4.py-3.mb-4
-              p.mb-0(data-aos="fade-down") Spencer y Spencer (1993) definieron la competencia como una característica subyacente en el individuo que está causalmente relacionada con un estándar de efectividad y/o una performance superior en un trabajo o situación. Esta definición permite distinguir entre las competencias que producen un desempeño meramente adecuado y las que generan desempeño superior y diferenciado.
+              p.mb-0(data-aos="fade-down") Spencer y Spencer (1993) definieron la competencia como una característica subyacente en el individuo que está causalmente relacionada con un estándar de efectividad y/o una #[em performance] superior en un trabajo o situación. Esta definición permite distinguir entre las competencias que producen un desempeño meramente adecuado y las que generan desempeño superior y diferenciado.
 
       .row.align-items-center.mb-4(data-aos="zoom-in")
         .col-auto.pe-0(style="z-index:2")
@@ -508,7 +508,7 @@
             figure
               img(src='@/assets/curso/temas/t1/img-30.png', alt='')
 
-      p Asimimo, es importante mencionar que desde IAP GROUP se construyó un diccionario por competencias que organiza las competencias en dos grandes categorías organizacionales y técnicas, y las evalúa mediante niveles de desarrollo que van desde un dominio mínimo hasta uno altamente estratégico. Esta estructura permite identificar brechas, orientar procesos como selección, capacitación y evaluación, y alinear el desempeño del talento humano con los objetivos organizacionales. 
+      p Asimismo, es importante mencionar que desde IAP GROUP se construyó un diccionario por competencias que organiza las competencias en dos grandes categorías organizacionales y técnicas, y las evalúa mediante niveles de desarrollo que van desde un dominio mínimo hasta uno altamente estratégico. Esta estructura permite identificar brechas, orientar procesos como selección, capacitación y evaluación, y alinear el desempeño del talento humano con los objetivos organizacionales. 
       p.mb-4 A continuación, se establece su estructura basada en categorías y niveles de desarrollo, lo que facilita su comprensión y aplicación en la gestión del talento humano:
 
       .row.align-items-center.mb-4(data-aos="zoom-in")
@@ -691,7 +691,7 @@
       Separador
 
       #t_1_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 1.5 Normativa legal ambiental, de salud y seguridad en el trabajo
+        h2 1.5 Normativa legal, ambiental, de salud y seguridad en el trabajo
 
       .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")(style="background-color: #F3F298 !important")
         .bloque-texto-g__img.img-bg-35
